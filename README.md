@@ -1,4 +1,4 @@
-### Hi, I'm Zach 👋
+### Hi there 👋
 
 Most recently Software Engineer II at **Oracle Cloud Infrastructure**, building console UI in React and TypeScript.
 
